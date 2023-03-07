@@ -1,0 +1,75 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.D1 {
+    width: 55%;
+    height: 95vh;
+    background-color: rgb(84, 167, 195);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+    .D0 {
+        background-color: rgb(84, 167, 195);
+        width: 55%;
+        height: 2vh;
+        
+    }
+
+    .D2 {
+        background-color: yellow;
+        width: 79vh;
+        height: 20vh;
+        
+    }
+
+    .D3 {
+        background-color: rgb(84, 167, 195);
+        width: 90vh;
+        height: 50vh;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+    }
+        .D9 {
+            width: 20vh;
+            height: 45vh;
+            background-color: yellow;
+        }
+
+        .D4 {
+            width: 45vh;
+            height: 45vh;
+            background-color: rgb(84, 167, 195);
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+            .D8 {
+                width: 45vh;
+                height: 20vh;
+                background-color: yellow;
+            }
+
+            .D5 {
+                width: 45vh;
+                height: 20vh;
+                background-color: rgb(84, 167, 195);
+                display: flex;
+                justify-content: space-between;
+            }
+                .D6 {
+                    width: 20vh;
+                    height: 20vh;
+                    background-color: yellow;
+                }
+                .D7 {
+                    width: 20vh;
+                    height: 20vh;
+                    background-color: yellow;
+                }
