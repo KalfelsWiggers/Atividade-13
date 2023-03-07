@@ -13,21 +13,21 @@ body {
     justify-content: center;
 }
 
-    .D0 {
+    .D2 {
         background-color: rgb(84, 167, 195);
         width: 55%;
         height: 2vh;
         
     }
 
-    .D2 {
+    .D3 {
         background-color: yellow;
         width: 79vh;
         height: 20vh;
         
     }
 
-    .D3 {
+    .D4 {
         background-color: rgb(84, 167, 195);
         width: 90vh;
         height: 50vh;
@@ -36,13 +36,13 @@ body {
         justify-content: space-around;
         align-items: center;
     }
-        .D9 {
+        .D10 {
             width: 20vh;
             height: 45vh;
             background-color: yellow;
         }
 
-        .D4 {
+        .D5 {
             width: 45vh;
             height: 45vh;
             background-color: rgb(84, 167, 195);
@@ -50,25 +50,25 @@ body {
             flex-direction: column;
             justify-content: space-between;
         }
-            .D8 {
+            .D9 {
                 width: 45vh;
                 height: 20vh;
                 background-color: yellow;
             }
 
-            .D5 {
+            .D6 {
                 width: 45vh;
                 height: 20vh;
                 background-color: rgb(84, 167, 195);
                 display: flex;
                 justify-content: space-between;
             }
-                .D6 {
+                .D7 {
                     width: 20vh;
                     height: 20vh;
                     background-color: yellow;
                 }
-                .D7 {
+                .D8 {
                     width: 20vh;
                     height: 20vh;
                     background-color: yellow;
