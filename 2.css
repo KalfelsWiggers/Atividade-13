@@ -29,7 +29,7 @@ body {
         width: 80%;
         height: 26vh;
         background-color: yellow;
-        margin: 20px;
+        margin: 25px;
     }
 
     .D2_2
@@ -37,7 +37,7 @@ body {
         width: 80%;
         height: 26vh;
         background-color: yellow;
-        margin: 20px;
+        margin: 25px;
     }
 
     .D2_3
@@ -45,12 +45,12 @@ body {
         width: 80%;
         height: 26vh;
         background-color: yellow;  
-        margin: 20px;
+        margin: 25px;
     }
 
 .D3
 {
-    width: 75%;
+    width: 74.45%;
     height: 32vh;
     background-color: yellow;
     display: flex;
@@ -74,7 +74,7 @@ body {
         width: 80%;
         height: 26vh;
         background-color: yellow;  
-        margin: 20px;
+        margin: 25px;
     }
 
     .D6
@@ -82,5 +82,5 @@ body {
         width: 38%;
         height: 26vh;
         background-color: yellow;  
-        margin: 20px;
+        margin: 25px;
     }
