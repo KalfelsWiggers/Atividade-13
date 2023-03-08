@@ -1,11 +1,9 @@
-body
-{
+body {
     display: flex;
     justify-content: center;
 }
 
-.D1 
-{
+.D1 {
     width: 55%;
     height: 96vh;
     background-color: rgb(84, 167, 195);
@@ -14,74 +12,64 @@ body
     align-items: center;
 }
 
-    .D2
-    {
-        width: 75%;
-        height: 32vh;
-        background-color: rgb(84, 167, 195);
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-        justify-content: space-around;
-    }
+.D2 {
+    width: 75%;
+    height: 32vh;
+    background-color: rgb(84, 167, 195);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
 
-        .D3
-        {
-            width: 22.5%;
-            height: 80%;
-            display: flex;
-            background-color: yellow;
-        }
+.D3 {
+    width: 22.5%;
+    height: 80%;
+    display: flex;
+    background-color: yellow;
+}
 
-        .D4
-        {
-            width: 67.5%;
-            height: 80%;
-            display: flex;
-            background-color: yellow;
-        }
+.D4 {
+    width: 67.5%;
+    height: 80%;
+    display: flex;
+    background-color: yellow;
+}
 
-    .D5
-    {
-        width: 75%;
-        height: 64vh;
-        background-color: rgb(84, 167, 195);
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-    
-    }
+.D5 {
+    width: 75%;
+    height: 64vh;
+    background-color: rgb(84, 167, 195);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
 
-        .D6
-        {
-            width: 75%;
-            height: 64vh;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: space-around;    
-        }
+}
 
-            .D7
-            {
-                width: 94%;
-                height: 25vh;
-                background-color: yellow;
-            }
+.D6 {
+    width: 75%;
+    height: 64vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
 
-            .D8
-            {
-                width: 94%;
-                height: 25vh;
-                background-color: yellow;
-            }
+.D7 {
+    width: 94%;
+    height: 25vh;
+    background-color: yellow;
+}
 
-        .D9
-        {
-            width: 22.5%;
-            height: 57vh;
-            background-color: yellow;
-               
-        }
+.D8 {
+    width: 94%;
+    height: 25vh;
+    background-color: yellow;
+}
 
-    
+.D9 {
+    width: 22.5%;
+    height: 57vh;
+    background-color: yellow;
+
+}
