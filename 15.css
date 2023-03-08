@@ -43,6 +43,7 @@ body {
     display: flex;
     flex-direction: row;
     align-items: center;
+    justify-content: space-between;
 
 }
 
@@ -71,5 +72,5 @@ body {
     width: 22.5%;
     height: 57vh;
     background-color: yellow;
-
+    margin: 15px;
 }
