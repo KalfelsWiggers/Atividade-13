@@ -10,6 +10,50 @@ body
     height: 96vh;
     background-color: rgb(84, 167, 195);
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
+    align-content: center;
+    justify-content: space-around;
+}
+
+.D2
+{
+        background-color: yellow;
+        width: 25vh;
+        height: 80vh;
+        
+}
+
+.D3
+{
+        background-color: rgb(84, 167, 195);
+        width: 25vh;
+        height: 80vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        align-content: center;
+        justify-content: space-between;
+}
+
+    .D4
+    {
+        background-color: yellow;
+        width: 25vh;
+        height: 25vh;
+    }
+
+    .D5
+    {
+        background-color: yellow;
+        width: 25vh;
+        height: 50vh;
+    }
+
+.D6
+{
+        background-color: yellow;
+        width: 25vh;
+        height: 80vh;
+       
 }
