@@ -1,88 +1,94 @@
 body {
-    display: flex;
-    justify-content: center;
-}
-
-.D1 
-{
-    width: 55%;
-    height: 96vh;
-    background-color: rgb(84, 167, 195);
+    width: 100%;
+    height: 100vh;
+    margin: 0;
     display: flex;
     flex-direction: column;
+    justify-content: space-around;
+    justify-items: center;
+    align-content: center;
     align-items: center;
+    overflow: hidden;
 }
 
-.D2
-{
+.D1 {
+
+    width: 500px;
+    height: 500px;
+    display: flex;
+    background-color: cornflowerblue;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    justify-content: space-around;
+
+}
+
+.D2 {
+
     width: 80%;
-    height: 32vh;
-    background-color: rgb(84, 167, 195);
+    height: 35vh;
     display: flex;
     flex-direction: row;
-    align-items: center ;
-    justify-items: space-between;
-}  
+    justify-content: space-between;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    overflow: hidden;
+}
 
-    .D2_1
-    {
-        width: 80%;
-        height: 26vh;
-        background-color: yellow;
-        margin: 25px;
-    }
+.D3 {
 
-    .D2_2
-    {
-        width: 80%;
-        height: 26vh;
-        background-color: yellow;
-        margin: 25px;
-    }
+    width: 80%;
+    height: 35vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    overflow: hidden;
+}
 
-    .D2_3
-    {
-        width: 80%;
-        height: 26vh;
-        background-color: yellow;  
-        margin: 25px;
-    }
+.D4 {
+    background-color: yellow;
+    width: 100%;
+    height: 15vh;
 
-    .D5 {
-        width: 77.5%;
-        height: 64vh;
-        background-color: rgb(84, 167, 195);
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-        justify-content: space-between;
-    
-    }
-    
-    .D6 {
-        width: 75%;
-        height: 64vh;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: space-around;
-    }
-    
-    .D7 {
-        width: 94%;
-        height: 25vh;
-        background-color: yellow;
-    }
-    
-    .D8 {
-        width: 94%;
-        height: 25vh;
-        background-color: yellow;
-    }
-    
-    .D9 {
-        width: 22.5%;
-        height: 57vh;
-        background-color: yellow;
-        margin: 15px;
-    }
+}
+
+.D0 {
+    background-color: yellow;
+    width: 30%;
+    height: 100vh;
+}
+
+.D5 {
+
+    width: 80%;
+    height: 15vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.D8 {
+    width: 15%;
+    height: 100vh;
+}
+
+.D6 {
+    width: 25%;
+    height: 100vh;
+    background-color: yellow;
+}
+
+.D7 {
+    width: 60%;
+    height: 100vh;
+    background-color: yellow;
+}
